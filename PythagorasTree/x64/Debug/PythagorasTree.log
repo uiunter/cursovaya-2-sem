@@ -1,0 +1,9 @@
+﻿  Menu.cpp
+C:\zhizha\proga\PythagorasTree\source\Menu.cpp(5,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\zhizha\proga\PythagorasTree\source\Menu.cpp(5,54): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\zhizha\proga\PythagorasTree\source\Menu.cpp(23,75): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  PythagorasTree.vcxproj -> C:\zhizha\proga\PythagorasTree\x64\Debug\PythagorasTree.exe
