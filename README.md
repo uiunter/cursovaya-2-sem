@@ -1,3 +1,5 @@
 # Курсовая работа 2 семестра
 Отрисовка фрактальных деревьев используя C++/SFML 2.4 и концепции ООП
-![Дерево](https://imgur.com/TYmwdHp)
+
+![Дерево](https://user-images.githubusercontent.com/72091137/121327798-725e9300-c91c-11eb-9c4b-8cfeccc142dd.jpg)
+
